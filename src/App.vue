@@ -2,16 +2,6 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <!-- <h1>LES GRANDES CATEGORIES</h1>
-      <hr>
-      <ul>
-        <li v-for="category in categories" :key="category.id">
-          <router-link :to="'/search?category=' + category.name"> -->
-            <!-- <img :src="category.img !== null ? mediaRoot+category.img.path : 'https://hearhear.org/wp-content/uploads/2019/09/no-image-icon.png' " alt="" class="icon-category"> -->
-            <!-- <p>{{ category.name }}</p> -->
-          <!-- </router-link> -->
-        <!-- </li>
-      </ul> -->
   </div>
 </template>
 
